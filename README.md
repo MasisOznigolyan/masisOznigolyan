@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masis Öznigolyan</h1>
-- 🌱 I’m currently learning **Spring Boot** and **React**
+- 🌱 I’m currently learning Spring Boot and React
 
 - 📫 How to reach me **oznigolyan3@gmail.com**
 
