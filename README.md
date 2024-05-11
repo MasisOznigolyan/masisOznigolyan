@@ -15,3 +15,6 @@
 
 [![Masis' GitHub stats](https://github-readme-stats.vercel.app/api?username=MasisOznigolyan&show_icons=true&theme=github_dark_dimmed)](https://github.com/MasisOznigolyan)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasisOznigolyan&layout=donut)](https://github.com/MasisOznigolyan)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MasisOznigolyan)](https://github.com/MasisOznigolyan)
