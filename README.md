@@ -17,4 +17,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasisOznigolyan&layout=donut)](https://github.com/MasisOznigolyan)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MasisOznigolyan)](https://github.com/MasisOznigolyan)
+
